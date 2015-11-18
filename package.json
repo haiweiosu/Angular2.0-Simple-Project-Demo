@@ -1,0 +1,30 @@
+{
+  "name": "Angular2.0-Simple-Project-Demo",
+  "version": "1.0.0",
+  "description": "This is Angular 2.0 selp study directory. Some code are copied from Angular.io website",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc -p src -w",
+    "start": "live-server --open=src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haiweiosu/Angular2.0-Simple-Project-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haiweiosu/Angular2.0-Simple-Project-Demo/issues"
+  },
+  "homepage": "https://github.com/haiweiosu/Angular2.0-Simple-Project-Demo#readme",
+  "dependencies": {
+    "angular2": "2.0.0-alpha.44",
+    "es6-shim": "^0.33.13",
+    "systemjs": "0.19.2"
+  },
+  "devDependencies": {
+    "live-server": "^0.8.2",
+    "typescript": "^1.6.2"
+  }
+}
