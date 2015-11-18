@@ -1,2 +1,4 @@
 # Angular2.0-Simple-Project-Demo
-This is Angular 2.0 selp study directory. Some code are copied from Angular.io website 
+#Sample codes are self-taught from Angular.io website
+#The purpose of this demo is trying to learn the new functionalities of Angular 2.0
+
